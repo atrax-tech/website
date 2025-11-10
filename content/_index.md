@@ -1,5 +1,4 @@
 ---
-title: atrax.tech
 type: docs
 bookToc: false
 ---
