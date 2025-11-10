@@ -1,8 +1,8 @@
-{
-   "categories": "Игры",
-   "date": "2007-08-14",
-   "title": "Star Control 2: The Ur-Quan Masters"
-}
+---
+categories: Игры
+date: '2007-08-14'
+title: 'Star Control 2: The Ur-Quan Masters'
+---
 
 В далеких 90-х, когда игры помещались по две на 3-дюймовую дискетку, Фред Форд и Пол Ричи-третий написали "Star Control" -- космическую игру, ставшую легендой...
 

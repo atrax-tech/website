@@ -1,11 +1,12 @@
-{
-    "date":"2005-05-30",
-    "title":"Звездные войны - эпизод 4",
-    "categories":["Видеоряд"],
-    "tags":[
-	"Star Wars", "George Lucas"
-    ]
-}
+---
+categories:
+- Видеоряд
+date: '2005-05-30'
+tags:
+- Star Wars
+- George Lucas
+title: 'Звездные войны - эпизод 4'
+---
 
 **Новая надежда**
 

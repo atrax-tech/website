@@ -1,13 +1,11 @@
-{
-   "categories": [
-      "Графомания"
-   ],
-   "date": "2022-12-08",
-   "tags": [
-      "Школа для волчонка"
-   ],
-   "title": "Was wissen zwei..."
-}
+---
+categories:
+- Графомания
+date: '2022-12-08'
+tags:
+- Школа для волчонка
+title: Was wissen zwei...
+---
 
 ...wisst Schwein.
 

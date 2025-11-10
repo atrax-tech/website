@@ -1,9 +1,9 @@
-{
-   "date": "2008-12-30",
-   "tags": "Jim Jarmusch",
-   "categories": "Видеоряд",
-   "title": "Dead Man"
-}
+---
+categories: Видеоряд
+date: '2008-12-30'
+tags: Jim Jarmusch
+title: Dead Man
+---
 
 Я наконец-то добрался до фильма, который собирался посмотреть уже очень давно.
 

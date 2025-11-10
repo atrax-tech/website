@@ -1,10 +1,9 @@
-{
-   "categories": [
-      "Календарь"
-   ],
-   "date": "2024-01-23",
-   "title": "Просто кот"
-}
+---
+categories:
+- Календарь
+date: '2024-01-23'
+title: Просто кот
+---
 
 ![poster](poster.jpg)
 

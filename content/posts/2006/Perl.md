@@ -1,9 +1,9 @@
-{
-   "categories": "Программирование",
-   "date": "2006-11-29",
-   "tags": "Perl",
-   "title": "Perl"
-}
+---
+categories: Программирование
+date: '2006-11-29'
+tags: Perl
+title: Perl
+---
 
 ```
 perl -wle '(1 x $_) !~ /^(11+)\1+$/ && print while ++ $_'

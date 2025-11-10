@@ -1,9 +1,11 @@
-{
-   "tags": ["Nicolas Winding Refn", "Ryan Gosling"],
-   "categories": "Видеоряд",
-   "date": "2013-04-15",
-   "title": "Drive"
-}
+---
+categories: Видеоряд
+date: '2013-04-15'
+tags:
+- Nicolas Winding Refn
+- Ryan Gosling
+title: Drive
+---
 
 > Водитель — самый опасный узел машины.
 > 

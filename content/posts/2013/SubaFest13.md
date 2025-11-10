@@ -1,4 +1,8 @@
-{"date":"2013-09-07","categories":"Автомобильное","title":"SubaFest'13"}
+---
+categories: Автомобильное
+date: '2013-09-07'
+title: SubaFest'13
+---
 
 ![](subafest13.jpg)
 

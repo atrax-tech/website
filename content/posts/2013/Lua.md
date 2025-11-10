@@ -1,4 +1,10 @@
-{"categories":"Программирование","date":"2013-07-22","tags":["Lua"],"title":"Lua"}
+---
+categories: Программирование
+date: '2013-07-22'
+tags:
+- Lua
+title: Lua
+---
 
 > Католицизм - это круто
 > 

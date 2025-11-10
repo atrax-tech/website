@@ -1,4 +1,11 @@
-{"date":"2022-06-10","tags":["Непроза"],"title":"I just call to say \"I love you\"","categories":["Графомания"]}
+---
+categories:
+- Графомания
+date: '2022-06-10'
+tags:
+- Непроза
+title: I just call to say "I love you"
+---
 
 Не Новый год,  
 Не Рождество,  

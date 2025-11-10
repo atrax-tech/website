@@ -1,9 +1,10 @@
-{
-   "date": "2006-01-22",
-   "categories": "Видеоряд",
-   "title": "Le Battement d'ailes du papillon",
-   "tags": ["Audrey Tautou"]
-}
+---
+categories: Видеоряд
+date: '2006-01-22'
+tags:
+- Audrey Tautou
+title: Le Battement d'ailes du papillon
+---
 
 > ...только не говорите, что взмах крыльями бабочки над Атлантикой не может вызвать ураган в Тихом океане... любой жест, даже самый мизерный, меняет мир...
 

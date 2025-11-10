@@ -1,9 +1,11 @@
-{
-"date": "2006-08-06",
-"categories": "Видеоряд",
-"title": "The Negotiator",
-"tags":["Samuel L. Jackson","Kevin Spacey"]
-}
+---
+categories: Видеоряд
+date: '2006-08-06'
+tags:
+- Samuel L. Jackson
+- Kevin Spacey
+title: The Negotiator
+---
 
 > **Добрым словом и пистолетом можно добиться гораздо большего, чем одним только добрым словом.**
 > 

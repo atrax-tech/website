@@ -1,8 +1,8 @@
-{
-    "title" : "Базы данных",
-    "type" : "docs",
-	"bookToc" : false
-}
+---
+bookToc: false
+title: Базы данных
+type: docs
+---
 
 ## Базы данных
   * Теория множеств

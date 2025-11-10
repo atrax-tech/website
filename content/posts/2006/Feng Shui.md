@@ -1,4 +1,10 @@
-{"categories":["Графомания"],"date":"2006-02-22","title":"Feng Shui","tags":"Хокку"}
+---
+categories:
+- Графомания
+date: '2006-02-22'
+tags: Хокку
+title: Feng Shui
+---
 
 От лишних людей  
 И предметов жизнь свою  

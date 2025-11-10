@@ -1,9 +1,9 @@
-{
-   "categories": "Программирование",
-   "date": "2019-08-20",
-   "tags": "Git",
-   "title": "Очистить историю GIT"
-}
+---
+categories: Программирование
+date: '2019-08-20'
+tags: Git
+title: Очистить историю GIT
+---
 
 ```bash
 git reset --soft $(git log --reverse --format=%H | head -n 1)
