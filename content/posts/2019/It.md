@@ -2,8 +2,8 @@
 categories: Видеоряд
 date: '2019-09-11'
 tags:
-- It
 - Stephen King
+- It
 title: Оно
 ---
 
