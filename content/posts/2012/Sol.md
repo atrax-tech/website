@@ -3,4 +3,4 @@
 Услышал на парковке:  
 -- Па, а что это за Subaru Sol?
 
-![](../images/fsol.jpg)
+![Subaru Sol](sol.jpg)

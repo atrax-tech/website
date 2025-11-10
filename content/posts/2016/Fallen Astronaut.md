@@ -12,4 +12,4 @@
 
 Есть и такой памятник. На Луне.
 
-![](../images/fallen_astronaut.jpg)
+![](photo.jpg)

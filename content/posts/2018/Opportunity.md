@@ -7,5 +7,5 @@
 
 "Opportunity" Rover
 
-![](../images/mars.jpg)
+![](mars.jpg)
 

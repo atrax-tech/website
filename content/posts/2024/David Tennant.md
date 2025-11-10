@@ -13,4 +13,4 @@
 
 Двойной скотч за здоровье падшего ангела!
 
-![Good Omens](../images/good-omens.webp)
+![Good Omens](good-omens.webp)

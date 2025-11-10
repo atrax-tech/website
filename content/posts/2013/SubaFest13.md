@@ -1,6 +1,6 @@
 {"date":"2013-09-07","categories":"Автомобильное","title":"SubaFest'13"}
 
-![](../images/subafest13.jpg)
+![](subafest13.jpg)
 
 Это новый Subaru BRZ.
 
