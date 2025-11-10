@@ -16,14 +16,14 @@
 
 А после того, как увидел игры — решил стать программистом.
 
-![](../images/kn.png)
+![Knightmare](kn.png)
 
 Knigntmare
 
-![](../images/kung2.png)
+![Kung-Fu 2](kung2.png)
 
 Yie Ar Kung-Fu 2
 
-![](../images/goon.png)
+![Goonies](goon.png)
 
 Goonies
