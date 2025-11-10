@@ -1,9 +1,12 @@
-{
-"date": "2006-07-27",
-"categories": "Видеоряд",
-"title": "Indiana Jones and the Last Crusade",
-"tags":["Steven Spielberg","Harrison Ford","Sean Connery"]
-}
+---
+categories: Видеоряд
+date: '2006-07-27'
+tags:
+- Steven Spielberg
+- Harrison Ford
+- Sean Connery
+title: Indiana Jones and the Last Crusade
+---
 
 Пересматривая коллекцию старых фильмов после шумихи, поднятой вокруг "Кода Да-Винчи", не мог не обратить внимания на этот фильм. Производство студии Джоржа Лукаса -- раньше я этого не замечал. Режиссура Стивена Спилберга. Словом, старый добрый детский фильм. Я смотрел его очень давно, поэтому порядком подзабыл. Но -- все оказалось именно так...
 

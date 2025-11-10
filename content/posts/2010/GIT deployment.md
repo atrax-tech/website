@@ -1,12 +1,11 @@
-{
-   "categories": "Программирование",
-   "date": "2010-12-30",
-   "tags": [
-      "Git",
-      "Linux"
-   ],
-   "title": "GIT deployment"
-}
+---
+categories: Программирование
+date: '2010-12-30'
+tags:
+- Git
+- Linux
+title: GIT deployment
+---
 
 ... или "нестандартное использование системы управления версиями".
 

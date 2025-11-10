@@ -1,9 +1,13 @@
-{
-   "categories": "Видеоряд",
-   "date": "2005-04-16",
-   "title": "Back to the future",
-   "tags" : ["Robert Zemeckis","Bob Gale","Michael J. Fox","Christopher Lloyd"]
-}
+---
+categories: Видеоряд
+date: '2005-04-16'
+tags:
+- Robert Zemeckis
+- Bob Gale
+- Michael J. Fox
+- Christopher Lloyd
+title: Back to the future
+---
 
 Чтобы взяться за избитый сюжет, нужно быть уверенным, что ты сделаешь его лучше всех. Именно таков Стивен Спилберг. Трилогию "Назад в будущее" можно смотреть и пересматривать как учебник. Учебник режиссуры. Как снимать нечто не оригинальное, но так, чтобы никто не назвал это банальностью...
 

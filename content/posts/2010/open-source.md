@@ -1,13 +1,12 @@
-{
-   "categories": "Программирование",
-   "date": "2010-11-21",
-   "tags": [
-      "Creative Commons",
-      "GNU",
-      "OSS"
-   ],
-   "title": "Открытые лицензии"
-}
+---
+categories: Программирование
+date: '2010-11-21'
+tags:
+- Creative Commons
+- GNU
+- OSS
+title: Открытые лицензии
+---
 
 ... или "Сложные пути OpenSource".
 

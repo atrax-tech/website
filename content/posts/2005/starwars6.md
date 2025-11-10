@@ -1,11 +1,12 @@
-{
-    "date":"2005-06-02",
-    "title":"Звездные войны - эпизод 6",
-    "categories":["Видеоряд"],
-    "tags":[
-	"Star Wars", "George Lucas"
-    ]
-}
+---
+categories:
+- Видеоряд
+date: '2005-06-02'
+tags:
+- Star Wars
+- George Lucas
+title: 'Звездные войны - эпизод 6'
+---
 
 **Возвращение Джедая**
 

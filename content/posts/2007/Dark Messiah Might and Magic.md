@@ -1,9 +1,10 @@
-{
-"categories": "Игры",
-"date": "2007-05-08",
-"title": "Dark Messiah Might and Magic",
-"tags": ["Arcane Studios"]
-}
+---
+categories: Игры
+date: '2007-05-08'
+tags:
+- Arcane Studios
+title: Dark Messiah Might and Magic
+---
 
 Движок Source, краса и гордость Vavle и фундамент второй серии Half-life, нашел-таки себе применение -- французская Arkane Studios лицензировала его для разработки действительно новой игры, а не очередной вариации приключений "физика с монтировкой".
 
