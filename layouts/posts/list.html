@@ -14,3 +14,23 @@
   {{ end }}
 
 {{ end }}
+
+{{ define "toc-container" }}
+<aside class="book-toc">
+  <div class="book-toc-content">
+    {{ template "toc" . }}
+  </div>
+</aside>
+{{ end }}
+
+{{ define "toc" }}
+<ul>
+  {{ range .Site.Taxonomies.categories.ByCount }}
+  <li>
+    <a href="{{ .Page.RelPermalink }}">
+      {{ .Page.Title }} ({{ .Count }})
+    </a>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}
