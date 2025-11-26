@@ -1,9 +1,10 @@
 ---
+title: NVIDIA Shield
 categories: Железо
 date: '2020-02-03'
 tags:
 - Nvidia
-title: Android TV
+- Android
 ---
 
 Последние 10 лет я смотрю фильмы при помощи связки NAS Synology DS-107 и медиаплеера WD TV, который напрямую читает фильмы с сетевого хранилища и выводит через HDMI на телевизор.
