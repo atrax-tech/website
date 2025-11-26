@@ -14,6 +14,11 @@ markup:
   highlight:
     style: base16-snazzy
 
+menu:
+  before:
+    - name: "Поток сознания"
+      pageRef: "/posts/"
+
 params:
   BookTheme: "dark"
 
@@ -49,7 +54,7 @@ params:
   # - In git information
   # - In blog posts
   # https://gohugo.io/functions/time/format/
-  #BookDateFormat: "January 2, 2006"
+  BookDateFormat: "2 January, 2006"
 
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
